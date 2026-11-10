@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+Portable/
+*.exe
+*settings.json
+_rename_log.json
+build/
+dist/
+*.spec

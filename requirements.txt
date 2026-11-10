@@ -1,0 +1,7 @@
+mutagen
+pykakasi
+cutlet
+unidic-lite
+deep-translator
+pillow
+sv-ttk
